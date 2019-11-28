@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a6f2694-f9d3-490e-9ea3-569fb6892aff" name="Default Changelist" comment="" />
+    <list default="true" id="2a6f2694-f9d3-490e-9ea3-569fb6892aff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsonSchemas.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/german_2_2019_11_09.json" beforeDir="false" afterPath="$PROJECT_DIR$/german_2_2019_11_09.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/russian_0_2019_11_09.json" beforeDir="false" afterPath="$PROJECT_DIR$/russian_0_2019_11_09.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,26 +22,17 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/english_0_2019_11_09.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="170">
-                  <caret line="10" column="59" selection-start-line="10" selection-end-line="11" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/german_2_2019_11_09.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="2380">
-                  <caret line="140" selection-start-line="140" selection-end-line="140" />
+                <state relative-caret-position="435">
+                  <caret line="165" column="37" selection-start-line="165" selection-start-column="5" selection-end-line="165" selection-end-column="37" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$USER_HOME$/Desktop/german_2_2019_11_09.json">
+            <entry file="file://$PROJECT_DIR$/german_2_2019_11_09.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17">
-                  <caret line="1" column="50" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="50" />
+                <state relative-caret-position="547">
+                  <caret line="129" column="62" lean-forward="true" selection-start-line="129" selection-start-column="62" selection-end-line="129" selection-end-column="62" />
                 </state>
               </provider>
             </entry>
@@ -46,8 +44,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/russian_0_2019_11_09.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="34">
-                  <caret line="2" column="51" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="51" />
+                <state relative-caret-position="360">
+                  <caret line="159" column="53" lean-forward="true" selection-start-line="159" selection-start-column="53" selection-end-line="159" selection-end-column="53" />
                 </state>
               </provider>
             </entry>
@@ -59,13 +57,28 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Justikar</find>
+      <find>def_AnniversArkhe_bot</find>
+      <find>anni</find>
+      <find>def_arkhe2_bot_pink</find>
+      <find>def_zenith_mk2_A_CT_capsule</find>
+      <find>boost_ep</find>
+      <find>def_npc_goblin_lancer</find>
+      <find>Boss</find>
     </findStrings>
+    <replaceStrings>
+      <replace>Капсула с КШ, $1 Мk2 ($2)</replace>
+      <replace>$1Зенит$2</replace>
+      <replace>Краска:</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/russian_0_2019_11_09.json" />
         <option value="$PROJECT_DIR$/german_2_2019_11_09.json" />
+        <option value="$PROJECT_DIR$/russian_0_2019_11_09.json" />
       </list>
     </option>
   </component>
@@ -74,11 +87,15 @@
     <option name="width" value="1752" />
     <option name="height" value="1032" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -90,10 +107,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -132,17 +149,21 @@
       <updated>1573330505528</updated>
       <workItem from="1573330506895" duration="2567000" />
       <workItem from="1573404619804" duration="238000" />
+      <workItem from="1573759421057" duration="93000" />
+      <workItem from="1574488096631" duration="735000" />
+      <workItem from="1574589111616" duration="639000" />
+      <workItem from="1574961001025" duration="3781000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2805000" />
+    <option name="totallyTimeSpent" value="8053000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2513" height="1455" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2519364" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2600897" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -155,7 +176,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32955405" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -168,31 +189,28 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/german_2_2019_11_09.json" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/english_0_2019_11_09.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="59" selection-start-line="10" selection-end-line="11" />
+        <state relative-caret-position="435">
+          <caret line="165" column="37" selection-start-line="165" selection-start-column="5" selection-end-line="165" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/german_2_2019_11_09.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2380">
-          <caret line="140" selection-start-line="140" selection-end-line="140" />
+        <state relative-caret-position="547">
+          <caret line="129" column="62" lean-forward="true" selection-start-line="129" selection-start-column="62" selection-end-line="129" selection-end-column="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/russian_0_2019_11_09.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="51" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/german_2_2019_11_09.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="50" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="50" />
+        <state relative-caret-position="360">
+          <caret line="159" column="53" lean-forward="true" selection-start-line="159" selection-start-column="53" selection-end-line="159" selection-end-column="53" />
         </state>
       </provider>
     </entry>
